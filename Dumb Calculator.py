@@ -20,8 +20,8 @@ print("Welcome to Dumb Calculator")
 x = float(input("Enter your first number: "))
 y = float(input("Enter your second number:"))
 
-print("Please select which of the following arithematic operation you want me to perform-\n" 
-        "1. Add\n" 
+print("Please select which of the following arithematic operation you want me to perform-\n"
+        "1. Add\n"
         "2. Subtract\n" 
         "3. Multiply\n" 
         "4. Divide\n")
