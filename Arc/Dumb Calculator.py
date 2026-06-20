@@ -14,7 +14,7 @@ def divide(x, y):
     if y == 0:
         return "Error: Cannot divide by zero"
     return x / y
-    
+
 
 print("Welcome to Dumb Calculator")
 x = float(input("Enter your first number: "))
